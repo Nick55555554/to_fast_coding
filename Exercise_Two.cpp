@@ -18,7 +18,7 @@ int press(int n){
     return count;
 }
 int main () {
-    int  a, h, k, m, s;
+    int  a;
     cin >> a;
     cout << press(a);
     return 0;
